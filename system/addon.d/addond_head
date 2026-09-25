@@ -1,1 +1,10 @@
+#!/sbin/sh
+#
+# ADDOND_VERSION=3
+#
+# /system/addon.d/01-nogoolag.sh
+#
+. /tmp/backuptool.functions
 
+list_files() {
+cat <<EOF

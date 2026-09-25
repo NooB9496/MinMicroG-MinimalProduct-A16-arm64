@@ -1,0 +1,1 @@
+Due to GitHub's limits, I cannot upload the APK file from the package here, as it exceeds 25 MB. It is the same file as the one in the microG version: com.google.android.gms-252432032.apk.

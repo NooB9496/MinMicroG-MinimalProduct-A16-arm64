@@ -6,3 +6,5 @@
 ## Flash issue you can report in this repo
 ## Zip tested on Xiaomi 13 Pro with crDroid latest A16 build with crDroid recovery. Booted without any issues.
 ## After flash, go to microG app, check Self-check tab and allow all permissions. Some permissions are already allowed.
+##
+## Due to GitHub's limits, I cannot upload the APK file from the package here, as it exceeds 25 MB. It is the same file as the one in the microG version: com.google.android.gms-252432032.apk in system/product/priv-app/MicroGGMSCore/ folder
